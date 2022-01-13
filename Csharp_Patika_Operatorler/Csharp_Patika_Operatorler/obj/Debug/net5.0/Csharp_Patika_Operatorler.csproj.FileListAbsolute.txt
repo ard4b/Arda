@@ -1,0 +1,16 @@
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\bin\Debug\net5.0\Csharp_Patika_Operatorler.exe
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\bin\Debug\net5.0\Csharp_Patika_Operatorler.deps.json
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\bin\Debug\net5.0\Csharp_Patika_Operatorler.runtimeconfig.json
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\bin\Debug\net5.0\Csharp_Patika_Operatorler.runtimeconfig.dev.json
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\bin\Debug\net5.0\Csharp_Patika_Operatorler.dll
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\bin\Debug\net5.0\ref\Csharp_Patika_Operatorler.dll
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\bin\Debug\net5.0\Csharp_Patika_Operatorler.pdb
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\obj\Debug\net5.0\Csharp_Patika_Operatorler.csproj.AssemblyReference.cache
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\obj\Debug\net5.0\Csharp_Patika_Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\obj\Debug\net5.0\Csharp_Patika_Operatorler.AssemblyInfoInputs.cache
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\obj\Debug\net5.0\Csharp_Patika_Operatorler.AssemblyInfo.cs
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\obj\Debug\net5.0\Csharp_Patika_Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\obj\Debug\net5.0\Csharp_Patika_Operatorler.dll
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\obj\Debug\net5.0\ref\Csharp_Patika_Operatorler.dll
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\obj\Debug\net5.0\Csharp_Patika_Operatorler.pdb
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika_Operatorler\Csharp_Patika_Operatorler\obj\Debug\net5.0\Csharp_Patika_Operatorler.genruntimeconfig.cache
