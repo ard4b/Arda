@@ -1,0 +1,16 @@
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\bin\Debug\net5.0\Csharp_Patika.exe
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\bin\Debug\net5.0\Csharp_Patika.deps.json
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\bin\Debug\net5.0\Csharp_Patika.runtimeconfig.json
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\bin\Debug\net5.0\Csharp_Patika.runtimeconfig.dev.json
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\bin\Debug\net5.0\Csharp_Patika.dll
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\bin\Debug\net5.0\ref\Csharp_Patika.dll
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\bin\Debug\net5.0\Csharp_Patika.pdb
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\obj\Debug\net5.0\Csharp_Patika.csproj.AssemblyReference.cache
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\obj\Debug\net5.0\Csharp_Patika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\obj\Debug\net5.0\Csharp_Patika.AssemblyInfoInputs.cache
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\obj\Debug\net5.0\Csharp_Patika.AssemblyInfo.cs
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\obj\Debug\net5.0\Csharp_Patika.csproj.CoreCompileInputs.cache
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\obj\Debug\net5.0\Csharp_Patika.dll
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\obj\Debug\net5.0\ref\Csharp_Patika.dll
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\obj\Debug\net5.0\Csharp_Patika.pdb
+C:\Users\PULSE\source\repos\Csharp_Patika\Csharp_Patika\obj\Debug\net5.0\Csharp_Patika.genruntimeconfig.cache
